@@ -1,3 +1,12 @@
+<h1>About</h1>
+Tech:
+<ul>
+    <li>Nodejs</li>
+    <li>React</li>
+    <li>MongoDB</li>
+    <li>Bootstrap</li>
+</ul>
+<hr/>
 <h1>For Backend</h1>
 
 ```
@@ -8,7 +17,7 @@ cd backend
 npm install
 ```
 
-take example of .env.example inside "src" directory and configure your own .env in backend directory
+take example of .env.example inside backend directory and configure your own .env inside same(backend) directory.
 
 then run:
 ```
